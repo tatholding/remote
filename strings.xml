@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کنترل از راه دور</string>
+    
+    <!-- Main Activity -->
+    <string name="host_button">میزبان</string>
+    <string name="guest_button">مهمان</string>
+    
+    <!-- Host Activity -->
+    <string name="host_title">حالت میزبان</string>
+    <string name="access_code_label">کد دسترسی:</string>
+    <string name="copy_code_button">کپی کد</string>
+    <string name="waiting_for_guest">در انتظار اتصال مهمان...</string>
+    <string name="code_copied">کد کپی شد!</string>
+    
+    <!-- Guest Activity -->
+    <string name="guest_title">حالت مهمان</string>
+    <string name="host_code_hint">کد میزبان</string>
+    <string name="connect_button">اتصال</string>
+    <string name="enter_host_code">لطفاً کد میزبان را وارد کنید</string>
+    <string name="connecting_to_host">در حال اتصال به میزبان...</string>
+    
+    <!-- Error Messages -->
+    <string name="error_invalid_code">کد نامعتبر است</string>
+    <string name="error_network">اتصال به اینترنت برقرار نیست</string>
+    <string name="error_screen_permission">اجازه دسترسی به صفحه نمایش داده نشده است</string>
+    <string name="error_drm_content">این محتوا به دلیل محدودیت‌های DRM قابل نمایش نیست</string>
+    
+    <!-- Permission Messages -->
+    <string name="permission_screen_capture">برای کنترل از راه دور، دسترسی به صفحه نمایش مورد نیاز است</string>
+    <string name="permission_internet">برای اتصال به دستگاه دیگر، دسترسی به اینترنت مورد نیاز است</string>
+</resources> 
